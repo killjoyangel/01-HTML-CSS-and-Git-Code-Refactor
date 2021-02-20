@@ -27,7 +27,7 @@ Also took plenty of notes of my changes in both the html and Css
 ![Changed CSS](./assets/images/origcss2.png) vs
 
 ### Changed CSS
-![Changed CSS](./assets/images/updatedcss2.png)
+![Changed CSS](.https://github.com/killjoyangel/01-HTML-CSS-and-Git-Code-Refactor/blob/Master/assets/images/updatedcss2.png)
 
 ## What final product was supposed to look like
 ![Changed CSS](./assets/images/01-html-css-git-homework-demo.png)
