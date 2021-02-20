@@ -18,19 +18,19 @@ Attempted to make lots of commits and pushed to github.
 Also took plenty of notes of my changes in both the html and Css
 
 ### Original Html
-![Changed HTML](./assets/images/orightml2.png)
+![Changed HTML](./assets/images/orightml2.PNG)
 
 ### Changed Html
-![Changed HTML](./assets/images/changedhtml2.png)
+![Changed HTML](./assets/images/changedhtml2.PNG)
 
 ### Original CSS
-![Changed CSS](./assets/images/origcss2.png) vs
+![Changed CSS](./assets/images/origcss2.PNG) vs
 
 ### Changed CSS
-![Changed CSS](./assets/images/updatedcss2.png)
+![Changed CSS](./assets/images/updatedcss2.PNG)
 
 ## What final product was supposed to look like
-![Changed CSS](./assets/images/01-html-css-git-homework-demo.png)
+![Changed CSS](./assets/images/01-html-css-git-homework-demo.PNG)
 
 
 
