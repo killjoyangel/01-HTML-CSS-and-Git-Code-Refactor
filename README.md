@@ -30,7 +30,7 @@ Also took plenty of notes of my changes in both the html and Css
 ![Changed CSS](./assets/images/updatedcss2.PNG)
 
 ## What final product was supposed to look like
-![Changed CSS](./assets/images/01-html-css-git-homework-demo.PNG)
+![Changed CSS](./assets/images/01-html-css-git-homework-demo.png)
 
 
 
