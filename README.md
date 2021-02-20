@@ -24,7 +24,9 @@ Also took plenty of notes of my changes in both the html and Css
 ![Changed HTML](./assets/images/changedhtml2.PNG)
 
 ### Original CSS
-![Changed CSS](./assets/images/origcss2.PNG) vs
+![Changed CSS](./assets/images/origcss2.PNG)
+
+
 
 ### Changed CSS
 ![Changed CSS](./assets/images/updatedcss2.PNG)
